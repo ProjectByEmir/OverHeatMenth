@@ -1,4 +1,4 @@
-# OverHeathMent 🖥️
+# OverHeatMenth 🖥️
 
 Windows için gelişmiş sistem monitörü — Electron + React + TypeScript
 
