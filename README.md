@@ -29,7 +29,7 @@ Windows için gelişmiş sistem monitörü — Electron + React + TypeScript
 
 ```bash
 # 1. Proje klasörüne gir
-cd sysmonitor-pro
+cd OverHeatMenth
 
 # 2. Bağımlılıkları yükle
 npm install
@@ -52,7 +52,7 @@ npm run build
 ## Proje Yapısı
 
 ```
-sysmonitor-pro/
+OverHeatMenth/
 ├── electron/
 │   ├── main.ts          # Electron ana process, IPC handlers
 │   └── preload.ts       # Güvenli API köprüsü (contextBridge)
